@@ -4,8 +4,7 @@
   <img src="./Img/Logo.png" height="300px" width="350px">
 </p>
 
-Un **sandbox** es un entorno de pruebas aislado en el que se pueden ejecutar aplicaciones o programas sin afectar el sistema operativo subyacente.  
-Este repositorio te servirá para **analizar malware en un entorno seguro**, ya que incluye herramientas útiles y fáciles de usar.
+Un **sandbox** es un entorno de pruebas aislado en el que se pueden ejecutar aplicaciones o programas sin afectar el sistema operativo subyacente. Este repositorio te servirá para **analizar malware en un entorno seguro**, ya que incluye herramientas útiles y fáciles de usar.
 
 ---
 
@@ -70,6 +69,4 @@ Puedes usarlo libremente con fines educativos y de investigación.
 
 ## ⚠️ Aviso
 
-Este script ha sido desarrollado únicamente con fines **educativos y de investigación en ciberseguridad**.  
-El uso indebido de este material puede ser **ilegal**.  
-No me responsabilizo del mal uso ni de los daños que puedan ocasionarse por su ejecución.
+Este script ha sido desarrollado únicamente con fines **educativos y de investigación en ciberseguridad**. El uso indebido de este material puede ser **ilegal**. No me responsabilizo del mal uso ni de los daños que puedan ocasionarse por su ejecución.
